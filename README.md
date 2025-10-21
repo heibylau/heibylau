@@ -18,7 +18,6 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wasm/wasm-original.svg" title="WASM" alt="WebAssembly" width="45" height="45"/>&nbsp;
 </div>
 
 ## 🪣 In My Bucket List
